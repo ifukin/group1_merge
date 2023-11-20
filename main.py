@@ -4,7 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def my_superfunction():
-    print('What an awesome print!')
+    print('Hello Python!')
 
 def print_hi(name):
     # Use a breakpoint in the code line below to debug your script.
